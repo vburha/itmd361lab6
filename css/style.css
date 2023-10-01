@@ -2,7 +2,7 @@ table#planets {
 	color: #505150;
   }
 
-td, th {
+table.td, table.th {
 	border: 3px outset #1D2951;
   }
 
