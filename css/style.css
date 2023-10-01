@@ -3,7 +3,10 @@
   }
 
 td, th {
-	border: 3px outset #1D2951;
+	border: 3px;
+	border-style: outset;
+	border-color: #1D2951;
+	color: #1D2951;
   }
 
 #table-invis {
