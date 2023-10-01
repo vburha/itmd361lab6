@@ -1,4 +1,13 @@
+table {
+	color: #505150
+}
+
 td, th {
 	border: 1px solid;
+	color: #1D2951
   }
+
+#table-invis {
+	border: 0px solid;
+}
   
