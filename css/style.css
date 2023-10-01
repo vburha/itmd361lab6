@@ -11,10 +11,11 @@ td, th {
 	border-style: outset;
 	border-color: #1D2951;
 	color: #C0C5CE;
+	font-family: Mooli, Helvetica, Sans-serif;
   }
 
 #table-invis {
 	border: 0px;
-	background-color: rgba(0,0,0,0);
+	background-color: hsl(0 0 0 / 0);
   }
   
