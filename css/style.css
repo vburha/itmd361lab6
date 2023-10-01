@@ -1,8 +1,8 @@
-table#planets {
-	color: #505150;
+#planets {
+	background-color: #505150;
   }
 
-table.td, table.th {
+td, th {
 	border: 3px outset #1D2951;
   }
 
