@@ -1,11 +1,22 @@
-h1 {
-	color: #1D2951;
+/*Page style*/
+body {
+	text-align:center;
 }
 
+/*General text style*/
+h1 {
+	color: #1D2951;
+	font-family: Russo One, Trebuchet MS, Sans-serif;
+}
+p {
+	color: #1D2951;
+	font-family: Mooli, Helvetica, Sans-serif;
+}
+
+/*Table style*/
 #planets {
 	background-color: #505150;
   }
-
 td, th {
 	border: 3px;
 	border-style: outset;
@@ -13,9 +24,7 @@ td, th {
 	color: #C0C5CE;
 	font-family: Mooli, Helvetica, Sans-serif;
   }
-
-#table-invis {
+table#table-invis {
 	border: 0px;
 	background-color: hsl(0 0 0 / 0);
   }
-  
