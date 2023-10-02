@@ -48,6 +48,7 @@ td, th {
 /*Footer style*/
 footer {
 	background-color: #C0C5CE;
+	border-radius: 25%;
 }
 
 /*Customized data table colors*/
