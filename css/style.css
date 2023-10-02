@@ -1,9 +1,7 @@
 /*Page style*/
 body {
 	text-align: center;
-}
-main {
-	background-color: #1D2951;
+    background-color: #1D2951;
 }
 
 /*General text style*/
@@ -48,3 +46,5 @@ td, th {
 footer {
 	background-color: #C0C5CE;
 }
+
+/*Customized data colors*/
