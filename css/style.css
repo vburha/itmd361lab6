@@ -1,22 +1,23 @@
 /*Page style*/
 body {
-	text-align:center;
+	text-align: center;
 }
 
 /*General text style*/
 h1 {
 	color: #1D2951;
 	font-family: Russo One, Trebuchet MS, Sans-serif;
+	background-color: #C0C5CE;
 }
 p {
 	color: #1D2951;
 	font-family: Mooli, Helvetica, Sans-serif;
 }
 #disclaimer {
-	width: 30%;
+	width: 40%;
 	position: relative;
-	left:32.5%;
-	right:32.5%;
+	left:30%;
+	right:30%;
 }
 
 /*Table style*/
@@ -36,5 +37,10 @@ td, th {
   }
 #table-invis {
 	border: 0px;
-	background-color: hsl(0 0 0 / 0);
+	background-color: rgb(0, 0, 0, 0)!important;
   }
+  
+/*Footer style*/
+footer {
+	background-color: #C0C5CE;
+}
