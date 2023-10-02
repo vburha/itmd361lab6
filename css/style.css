@@ -12,9 +12,9 @@ p {
 	color: #1D2951;
 	font-family: Mooli, Helvetica, Sans-serif;
 }
-p#disclaimer {
+#disclaimer {
 	width: 30%;
-	position: absolute;
+	position: relative;
 	left:32.5%;
 	right:32.5%;
 }
@@ -22,6 +22,10 @@ p#disclaimer {
 /*Table style*/
 #planets {
 	background-color: #505150;
+	width: 50%;
+	position: relative;
+	left:25%;
+	right:25%;
   }
 td, th {
 	border: 3px;
@@ -30,7 +34,7 @@ td, th {
 	color: #C0C5CE;
 	font-family: Mooli, Helvetica, Sans-serif;
   }
-table#table-invis {
+#table-invis {
 	border: 0px;
 	background-color: hsl(0 0 0 / 0);
   }
