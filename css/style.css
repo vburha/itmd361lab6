@@ -2,6 +2,9 @@
 body {
 	text-align: center;
 }
+main {
+	background-color: #1D2951;
+}
 
 /*General text style*/
 h1 {
@@ -14,6 +17,7 @@ p {
 	font-family: Mooli, Helvetica, Sans-serif;
 }
 #disclaimer {
+	color: #C0C5CE;
 	width: 40%;
 	position: relative;
 	left:30%;
