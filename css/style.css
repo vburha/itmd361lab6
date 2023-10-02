@@ -39,12 +39,47 @@ td, th {
   }
 #table-invis {
 	border: 0px;
-	background-color: rgb(0, 0, 0, 0)!important;
+	background-color: #1D2951;
   }
+.datahead {
+	font-weight: bold;
+}
   
 /*Footer style*/
 footer {
 	background-color: #C0C5CE;
 }
 
-/*Customized data colors*/
+/*Customized data table colors*/
+.vendat {
+	color: #d59735;
+	background-color: #a05815;
+}
+.mardat {
+	color: #cead77;
+	background-color: #695d48;
+}
+.moodat {
+	color: #74848c;
+	background-color: #434b4c;
+}
+.pludat {
+	color: #bb9b7e;
+	background-color: #4c331e;
+}
+#venhead {
+	color: #a05815;
+	background-color: #d59735;
+}
+#marhead {
+	color: #695d48;
+	background-color: #cead77;
+}
+#moohead {
+	color: #434b4c;
+	background-color: #74848c;
+}
+#pluhead {
+	color: #4c331e;
+	background-color: #bb9b7e;
+}
